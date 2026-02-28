@@ -73,13 +73,6 @@ public class Vishal extends Engineer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VishalKmk&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKmk&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=VishalKmk&theme=merko&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)](https://git.io/streak-stats)
 
 </div>
