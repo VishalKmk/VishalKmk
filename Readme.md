@@ -11,7 +11,7 @@
 
 ### `backend engineer` · `system designer` · `builder`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+MySQL;Building+scalable+backend+systems;Designing+for+impact+at+scale;Future%3A+AI+%7C+Energy+%7C+Defense+%7C+Infra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+MySQL;Building+scalable+backend+systems;Designing+for+impact+at+scale;Future%3A+Staff+Engineer+%7C+Open+Source+%7C+Scalable+Systems)](https://git.io/typing-svg)
 
 </div>
 
