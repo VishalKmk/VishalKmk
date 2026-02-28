@@ -116,7 +116,7 @@ $ cat /etc/vishal/goals.conf
 <div align="center">
 
 ```
-"Build systems that outlast you. Think in decades, execute in sprints."
+"First, make it work. Then, make it right. Then, make it fast."
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=VishalKmk&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
