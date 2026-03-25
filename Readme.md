@@ -1,124 +1,114 @@
 <div align="center">
-
-```
-██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗
-██║   ██║██║██╔════╝██║  ██║██╔══██╗██║
-██║   ██║██║███████╗███████║███████║██║
-╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║
-      ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗
-       ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
-
-### `backend engineer` · `system designer` · `builder`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+MySQL;Building+scalable+backend+systems;Designing+for+impact+at+scale;Future%3A+Staff+Engineer+%7C+Open+Source+%7C+Scalable+Systems)](https://git.io/typing-svg)
-
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500"/>
 </div>
+
+# Bishal Karmakar | Backend Engineer
+
+<p>
+  <a href="https://www.linkedin.com/in/bishal-karmakar-278656242/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/VishalKmk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+  <a href="https://x.com/karmakar_b57500" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
+  </a>
+</p>
+
+<p><em>Building scalable backend systems | Java · Spring Boot · MySQL · PostgreSQL · Docker</em></p>
 
 ---
 
-## `whoami`
+### 👨‍💻 About Me
+
+> I'm a **Backend Engineer** and final-year CS student who genuinely enjoys understanding *how systems work under the hood* — not just wiring things together. My go-to stack is **Java + Spring Boot**, and I lean heavily on clean architecture, proper security, and well-designed REST APIs. Currently building projects on the side and diving deeper into microservices and system design.
+
+- 🎓 Final-year **Computer Science** student
+- 🏢 Previously worked at a startup building production applications
+- 🌟 Built **[Inventory Management App](https://github.com/VishalKmk/Inventory-Management-App)** — a full-stack warehouse management system with JWT auth, analytics, and audit logging
+- 🛒 Building **[E-commerce Microservices](https://github.com/VishalKmk/E-commerce_MicroServices)** — a distributed e-commerce backend
+- 💬 Ask me about **Spring Boot, REST API Design, Spring Security, and Backend Architecture**
+- ⚡ Fun fact: The only thing I architect more carefully than APIs is my next bad decision
+
+---
+
+### 🌟 Featured Project — Inventory Management System
+
+> *Your warehouse, under control.*
+
+**[Inventory Management App](https://github.com/VishalKmk/Inventory-Management-App)** is a full-stack application for managing inventory across multiple spaces and locations — think warehouses, storage rooms, or product categories — all in one clean dashboard.
+
+**What makes it solid:**
+- 🏠 **Multi-space organization** — up to 10 logical spaces per user (Electronics, Kitchen, etc.)
+- 📦 **Product CRUD** with smart stock thresholds and real-time low-stock detection
+- 📊 **Analytics dashboard** with visual charts, inventory value breakdowns, and price insights
+- 🔐 **JWT auth** with email-based OTP verification and Spring Security
+- 📋 **Audit logging** — full activity tracking across all operations
+- 🗂️ Well-structured layered architecture: Controller → Service → Repository
+
+**Stack:** Java 17 · Spring Boot 3.x · Spring Security · MySQL · JPA/Hibernate · React 18 · Vite · JWT
+
+[![View Repo](https://img.shields.io/badge/View_Repo-Inventory_App-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalKmk/Inventory-Management-App)
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,maven,idea,linux,react,html,css&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalKmk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKmk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VishalKmk&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+### 🎯 Currently Working On
 
 ```java
-public class Vishal extends Engineer {
+public class Bishal extends BackendEngineer {
 
-    private final String name     = "Bishal Karmakar";
-    private final String role     = "CS Engineering Student";
-    private final String focus    = "Backend Development & System Design";
-    private final String[] langs  = {"English", "Hindi", "Bengali", "Russian"};
+    String[] learning  = { "System Design", "Microservices", "Spring Security (deep dive)" };
+    String[] building  = { "E-commerce Microservices", "More backend projects" };
+    String   goal      = "Land a backend role and build systems that actually matter";
+    String   status    = "Open to opportunities 👀";
 
-  @Override
-  public String longTermVision() {
-      return """
-          → Build production-grade backend systems
-          → Contribute to impactful open-source projects
-          → Master system design & distributed systems
-          → Land a role at a company solving real problems
-          """;
-  }
+    @Override
+    public String getMotivation() {
+        return "First, make it work. Then, make it right. Then, make it fast.";
+    }
 }
 ```
 
 ---
 
-## `./tech-stack`
+### 🤝 Connect With Me
 
-<div align="center">
-
-**Backend & Core**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Interests & Exploring**
-
-![System Design](https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge&logo=buffer&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game_Dev-000000?style=for-the-badge&logo=unity&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/bishal-karmakar-278656242/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bishal_Karmakar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/karmakar_b57500">
+    <img src="https://img.shields.io/badge/X-@karmakar_b57500-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:bishalkarmakar2468@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bishalkarmakar2468@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## `./stats`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VishalKmk&theme=merko&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `./current-mission`
-
-```bash
-$ cat /etc/vishal/goals.conf
-
-[2026]
-  learn         = "System Design, DSA, Spring Security, Microservices"
-  build         = "Production-ready backend projects"
-  contribute    = "Open source & real-world problem solving"
-  languages     = "Russian 🇷🇺 (beginner) · Chinese 🇨🇳 (beginner)"
-
-[long-term]
-  goal_1        = "Build scalable, high-impact backend systems"
-  goal_2        = "Grow into system design & distributed architecture"
-  goal_3        = "Work on products that matter"
-
-[values]
-  core          = ["Ethics", "Honesty", "Impact", "Consistency"]
-```
-
----
-
-## `./connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-karmakar-278656242/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalKmk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bishalkarmakar2468@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-"First, make it work. Then, make it right. Then, make it fast."
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=VishalKmk&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishalKmk&color=6DB33F&style=flat-square&label=PROFILE+VIEWS" />
+</p>
