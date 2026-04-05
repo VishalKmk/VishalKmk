@@ -37,7 +37,7 @@
 
 > *A custom binary packaging system for efficient project storage & transfer.*
 
-**PodPack is a lightweight CLI tool that compresses entire project directories into a single binary format and restores them without data loss.**
+**[PodPack](https://github.com/VishalKmk/PodPack) is a lightweight CLI tool that compresses entire project directories into a single binary format and restores them without data loss.**
 
 #### Features in a nutshell
 
