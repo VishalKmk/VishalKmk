@@ -33,23 +33,26 @@
 
 ---
 
-### 🌟 Featured Project — Inventory Management System
+### 🚀 Featured Project — PodPack
 
-> *Your warehouse, under control.*
+> *A custom binary packaging system for efficient project storage & transfer.*
 
-**[Inventory Management App](https://github.com/VishalKmk/Inventory-Management-App)** is a full-stack application for managing inventory across multiple spaces and locations — think warehouses, storage rooms, or product categories — all in one clean dashboard.
+> PodPack is a lightweight CLI tool that compresses entire project directories into a single binary format and restores them without data loss. Designed with performance and portability in mind.
 
-**What makes it solid:**
-- 🏠 **Multi-space organization** — up to 10 logical spaces per user (Electronics, Kitchen, etc.)
-- 📦 **Product CRUD** with smart stock thresholds and real-time low-stock detection
-- 📊 **Analytics dashboard** with visual charts, inventory value breakdowns, and price insights
-- 🔐 **JWT auth** with email-based OTP verification and Spring Security
-- 📋 **Audit logging** — full activity tracking across all operations
-- 🗂️ Well-structured layered architecture: Controller → Service → Repository
+#### Why it’s interesting (this is what recruiters care about):
 
-**Stack:** Java 17 · Spring Boot 3.x · Spring Security · MySQL · JPA/Hibernate · React 18 · Vite · JWT
+- ⚡ **Custom binary format** — not just zip, but your own structured packing system
+- 📦 **Directory** → single file conversion with metadata + offsets
+- 🔍 **Fast lookup** using indexed structure (header + file offsets)
+- 🔁 **Lossless unpacking** — preserves exact file structure and contents
 
-[![View Repo](https://img.shields.io/badge/View_Repo-Inventory_App-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalKmk/Inventory-Management-App)
+#### Core Idea:
+
+Walk directory → store file metadata (name, size, offset)
+Write raw bytes sequentially
+Maintain index for reconstruction
+
+> Stack: Java · File I/O · Binary Encoding · Custom Data Structures
 
 ---
 
