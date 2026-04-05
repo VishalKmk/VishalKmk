@@ -52,7 +52,9 @@ Walk directory → store file metadata (name, size, offset)
 Write raw bytes sequentially
 Maintain index for reconstruction
 
-> Stack: Java · File I/O · Binary Encoding · Custom Data Structures
+> Stack: Java · File I/O · Binary Encoding 
+
+[![View Repo](https://img.shields.io/badge/View_Repo-PodPack-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalKmk/PodPack)
 
 ---
 
@@ -67,32 +69,8 @@ Maintain index for reconstruction
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalKmk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKmk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=VishalKmk&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
-
----
-
-### 🎯 Currently Working On
-
-```java
-public class Bishal extends BackendEngineer {
-
-    String[] learning  = { "System Design", "Microservices", "Spring Security (deep dive)" };
-    String[] building  = { "E-commerce Microservices", "More backend projects" };
-    String   goal      = "Land a backend role and build systems that actually matter";
-    String   status    = "Open to opportunities 👀";
-
-    @Override
-    public String getMotivation() {
-        return "First, make it work. Then, make it right. Then, make it fast.";
-    }
-}
-```
 
 ---
 
