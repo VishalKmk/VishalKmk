@@ -33,35 +33,10 @@
 
 ---
 
-### 🚀 Featured Project — PodPack
-
-> *A custom binary packaging system for efficient project storage & transfer.*
-
-**[PodPack](https://github.com/VishalKmk/PodPack) is a lightweight CLI tool that compresses entire project directories into a single binary format and restores them without data loss.**
-
-#### Features in a nutshell
-
-- ⚡ **Custom binary format** — not just zip, but your own structured packing system
-- 📦 **Directory** → single file conversion with metadata + offsets
-- 🔍 **Fast lookup** using indexed structure (header + file offsets)
-- 🔁 **Lossless unpacking** — preserves exact file structure and contents
-
-#### Core Idea:
-
-Walk directory → store file metadata (name, size, offset)
-Write raw bytes sequentially
-Maintain index for reconstruction
-
-> Stack: Java · File I/O · Binary Encoding 
-
-[![View Repo](https://img.shields.io/badge/View_Repo-PodPack-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalKmk/PodPack)
-
----
-
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,maven,idea,linux,react,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,maven,idea,linux&theme=dark" />
 </p>
 
 ---
